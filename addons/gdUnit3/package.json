@@ -6,10 +6,6 @@
 	"publisher": "mikeschulze",
 	"license": "MIT",
 	"dependencies": {
-		"gdUnit3": "github:MikeSchulze/gdUnit3",
-		"gdUnit3-1": "git@github.com:MikeSchulze/gdUnit3.git",
-		"gdUnit3-2": "MikeSchulze/gdUnit3",
-		"gdUnit3-3": "github:MikeSchulze/gdUnit3:^1.0.0",
-		"gdUnit3-4": "git+https://isaacs@github.com/npm/cli.git"
+		"gdUnit3": "github:MikeSchulze/gdUnit3:^1.5.0"
 	}
 }
