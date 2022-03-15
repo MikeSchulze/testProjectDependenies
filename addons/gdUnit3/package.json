@@ -12,7 +12,7 @@
 	"icon": "icon.png",
 	"engines": {
 		"godot": "3.3.3",
-    "godot": "3.3.4"
+		"godot": "3.3.4"
 	},
 	"categories": [
 		"Testing"
@@ -21,6 +21,9 @@
 		"GdUnit3",
 		"Godot",
 		"GdScript",
-    "c#"
-	]
+		"c#"
+	],
+	"dependencies": {
+		"gdUnit3": "MikeSchulze/gdUnit3"
+	}
 }
