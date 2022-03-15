@@ -24,6 +24,6 @@
 		"c#"
 	],
 	"dependencies": {
-		"gdUnit3": "MikeSchulze/gdUnit3"
+		"gdUnit3": "https://github.com:MikeSchulze/gdUnit3.git"
 	}
 }
