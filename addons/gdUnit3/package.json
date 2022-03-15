@@ -7,7 +7,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"gdUnit3": "github:MikeSchulze/gdUnit3",
-		"gdUnit3-1": "git@github.com:MikeSchulze/gdUnit3.git"
-		
+		"gdUnit3-1": "git@github.com:MikeSchulze/gdUnit3.git",
+		"gdUnit3-2": "MikeSchulze/gdUnit3"
 	}
 }
